@@ -81,6 +81,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  strava           : "https://www.strava.com/athletes/112522467"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
