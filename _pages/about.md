@@ -9,4 +9,4 @@ redirect_from:
 ---
 Hello! I'm Andy and I work at the U.S. Department of Justice, Antitrust Division. Before working at the Antitrust Division, I worked in management consulting and economic consulting. I graduated from Northwestern with a double major in Economics and Mathematics.
 
-In my free time, I like to read academic papers (mostly behavioral economics and antitrust law/economics) and teaching myself new things, I'm currently learning Networks through Professor Jon Kleinberg's lecture notes. As such, I figured it would be fun to create a website that catalogues all of my learnings.
+In my free time, I like to read academic papers (mostly behavioral economics and antitrust law/economics) and teaching myself new things, I'm currently learning Networks through Professor Jon Kleinberg's lecture notes and (re)learning Probability Theory because, as it turns out, it's a really useful thing to know. As such, I figured it would be fun to create a website that catalogues all of my learnings.
